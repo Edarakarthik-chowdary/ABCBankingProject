@@ -1,0 +1,15 @@
+# Maven build files
+target/
+
+# Eclipse configuration
+.classpath
+.factorypath
+.project
+.settings/
+
+# Java compiled files
+*.class
+
+# Logs and environment files
+*.log
+.env
